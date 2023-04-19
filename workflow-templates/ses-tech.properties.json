@@ -1,6 +1,6 @@
 {
-    "name": "DevXP-Tech GoLang CICD",
-    "description": "DevXP-Tech Organization CI Workflow.",
+    "name": "SES GoLang CICD",
+    "description": "SES Organization CI Workflow.",
     "iconName": "example-icon",
     "categories": [
         "Go"

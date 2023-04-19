@@ -1,8 +1,8 @@
 # .github
 ## GitHub Template Repo
 
-This repository store the DevXP-Tech workflow templates.
 ## 🚦 Pipeline Workflow
+This repository store the SES workflow templates.
 
 ```mermaid
 graph TD;
